@@ -11,13 +11,11 @@
 | 插件 | 干什么 |
 | --- | --- |
 | **dsh-sbi** | SBI 跑团语料检索。654 篇、29693 块向量，能按团/章过滤，也能翻回原文 |
+| **dsh-memory** | 长期记忆：向量检索 + 压缩前整理 + 夜间睡觉，三合一 |
 | **dsh-home** | 家里的灯、除湿机、温湿度 |
 | **dsh-ha-mcp** | Home Assistant 的 MCP 通道 |
 | **dsh-members** | 群成员名册 |
 | **dsh-majsoul** | 雀魂礼品码扫描 |
-| **dsh-memory-bge** | 记忆检索，bge-m3 向量 |
-| **dsh-memory-consolidator** | 上下文压缩前的记忆整理 |
-| **dsh-memory-sleep** | 夜间记忆沉淀 |
 | **dsh-browser-lite** | 轻量浏览器工具 |
 
 ## 技术栈
