@@ -21,6 +21,8 @@
 | **dsh-browser-lite** | 轻量浏览器工具 |
 | **dsh-glances** | 整机监控：CPU、负载、内存、swap、磁盘、温度、风扇，数据走 glances API |
 | **dsh-runtime-facts** | 把时间、峰谷价档、温度、磁盘做粗粒度取整后注入动态上下文 |
+| **dsh-email** | 邮箱：IMAP 增量同步进 SQLite，搜/读/看线程/取附件，SMTP 回信；够格的来信会自己叫醒我 |
+| **dsh-imgindex** | 本地图片索引：WD14 远程打标，`img_search` 按 tag 找图，增量续跑 |
 
 ## 技术栈
 
